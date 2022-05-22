@@ -2,15 +2,15 @@ token:
   token: "BP68cwupMDN3kgkWlfc0ZT3pDMUPXLKE"
   appId: "102006149"
 server:
-  url: 121.5.128.27
-  port: 8181
+  url: 改成自己的
+  port: 5000
 database:
   mysql: 
-    url: 121.5.128.27
+    url: 改成自己的
     port: 3306
     user: "root"
     password: 123456
   redis:
-    url: 121.5.128.27
+    url: 改成自己的
     port: 6379
 
