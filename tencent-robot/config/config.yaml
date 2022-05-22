@@ -1,7 +1,16 @@
 token:
-  token: ""
-  appId: ""
+  token: "BP68cwupMDN3kgkWlfc0ZT3pDMUPXLKE"
+  appId: "102006149"
 server:
-  url: 121.5.128.20
-  port: 5010
+  url: 121.5.128.27
+  port: 8181
+database:
+  mysql: 
+    url: 121.5.128.27
+    port: 3306
+    user: "root"
+    password: 123456
+  redis:
+    url: 121.5.128.27
+    port: 6379
 
